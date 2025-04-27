@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"content="This is asimple HTML page for Day-4 of the course.">
+    <meta name="keywords"content="HTML,form,input fields,course day-4.">
+    <meta name="author"content="Varshaa">
+    <link rel="icon" href="./assets/car image.jpg"type="image/x-icon">
+    <title>Day-4</title>
+</head>
+<body>
+    <header>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Soluta rerum minus, error ratione adipisci possimus numquam exercitationem esse voluptas dolorum nulla, asperiores quasi temporibus quam assumenda ipsa tenetur! Ut, suscipit.</p>
+    </header>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+        </ul>
+    </nav>
+    <h1>Day-4</h1>
+    <form>
+        <label for="name">Name:</label>
+        <input type="text"name="name"placeholder="Enter your name"/><br>
+        <label for="password">Password:</label>
+        <input type="password"/><br>
+        <label for="email">Email:</label>
+        <input type="email"/><br>
+        <button type="submit">submit</button>
+        <button type="reset">Reset</button>
+    </form>
+    <main>
+        <h1>Heading-1</h1>
+        <h2>Heading-2</h2>
+        <h3>Heading-2</h3>
+        <h4>Heading-2</h4>
+        <h5>Heading-2</h5>
+        <h6>Heading-2</h6>
+        <p>This is a paragraph <strong>Lorem </strong>ipsum dolor, sit amet consectetur adipisicing elit.<br> Incidunt cupiditate ducimus fuga, labore enim, dignissimos ipsam<hr> cumque reiciendis totam sunt recusandae aliquam similique non vitae tempore placeat hic itaque officiis.</p>
+        <button> <a href="./Day-2.html">Click me</a></button>
+        <a href="./Day-2.html">
+            <button>Click me</button>
+        </a>    
+    </main>
+    <section>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Non ea, porro sapiente totam voluptates perferendis blanditiis facere delectus accusamus tempore, sunt odit, possimus omnis aut nulla rerum doloremque quam eveniet.</p>
+    </section>
+    <section>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore voluptates minima inventore, ullam repellendus repellat neque id expedita quidem delectus, amet corporis accusamus eveniet? Aliquid doloremque distinctio consequatur dolore at.</p>
+    </section>
+    <section>
+        <div>
+            <h1>Heading</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam illum, sapiente accusamus autem consequuntur iste quaerat nemo quibusdam repellendus fugiat facilis. Ab perferendis minima cupiditate deserunt quis? Voluptates, dignissimos quibusdam.</p>
+            <button>Click</button>
+        </div>
+        <div>
+            <h1>Heading</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam illum, sapiente accusamus autem consequuntur iste quaerat nemo quibusdam repellendus fugiat facilis. Ab perferendis minima cupiditate deserunt quis? Voluptates, dignissimos quibusdam.</p>
+            <button>Click</button>
+        </div>
+    </section>
+    <article>
+        <h1>Article</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis excepturi maxime suscipit temporibus consectetur distinctio a magni sequi nobis velit accusantium impedit, accusamus pariatur qui ratione reprehenderit rem voluptatum sunt!</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eveniet eligendi obcaecati expedita, soluta in repellendus perspiciatis nihil, aut quas quos sapiente blanditiis distinctio ducimus doloribus maiores animi, pariatur esse error!</p>
+    </article>
+    <section>
+        <div>
+            <h1>Heading</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam illum, sapiente accusamus autem consequuntur iste quaerat nemo quibusdam repellendus fugiat facilis. Ab perferendis minima cupiditate deserunt quis? Voluptates, dignissimos quibusdam.</p>
+            <button>Click</button>
+        </div>
+        <div>
+            <h1>Heading</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam illum, sapiente accusamus autem consequuntur iste quaerat nemo quibusdam repellendus fugiat facilis. Ab perferendis minima cupiditate deserunt quis? Voluptates, dignissimos quibusdam.</p>
+            <button>Click</button>
+        </div>
+    </section>
+    <mark>Hello</mark>
+    <footer>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic id iusto, unde assumenda adipisci rerum numquam nam repellendus beatae, quod eum quisquam consequuntur? Nemo odit error odio ipsa eum itaque!</p>
+    </footer>
+</body>
+</html>

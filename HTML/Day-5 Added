@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day-5</title>
+    <link rel="stylesheet" href="..//CSS/style.css">
+    
+    
+</head>
+<body>
+    <p class="para">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aliquam id illo fugit quibusdam repellat doloremque vitae sunt sequi nostrum dolore culpa facere ad, quos recusandae. Odit asperiores distinctio iste eum!
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi obcaecati sit a, cum ratione molestias tempore, praesentium reiciendis, autem eum inventore! Consequatur nihil vero beatae aliquid temporibus, id doloremque assumenda.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum explicabo eaque delectus quia obcaecati nam doloremque voluptas incidunt temporibus? Et, excepturi vitae labore quod voluptatum accusantium cum consequuntur numquam blanditiis?
+    </p> 
+    <p id="para2">
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis magni id voluptatem molestiae perspiciatis mollitia error, sit veritatis reiciendis asperiores officiis repudiandae. Pariatur est qui voluptatem id, fugit mollitia reiciendis?
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur <span>Heading</span>nobis porro ducimus incidunt aliquam molestias, fugiat eum dolore aut! Quaerat nam vitae temporibus asperiores provident ullam, laborum quos incidunt quae.
+        <h1 class="head">Hello</h1>
+    </p>
+   <h1>Heading</h1>
+</body>
+</html
